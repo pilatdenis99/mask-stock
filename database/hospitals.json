@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "6399bf5ff2ccef02a138a3fa"
+  },
+  "name": "The Helios Hospital Berlin-Buch",
+  "city": "Berlin",
+  "country": "Germany",
+  "vat": 0,
+  "users": [
+    "639ae5a1a6f380c3e5a1dd02"
+  ],
+  "currency": "EUR",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671020383545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671127275851"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6399bf5ff2ccef02a138a3fb"
+  },
+  "name": "The University Hospital Duesseldorf",
+  "city": "Duesseldorf",
+  "country": "Germany",
+  "vat": 0,
+  "users": [],
+  "currency": "EUR",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671020383546"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671094756500"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6399bf5ff2ccef02a138a3f8"
+  },
+  "name": "Markhot Ferenc Oktatókórház és Rendelőintézet",
+  "city": "Eger",
+  "country": "Hungary",
+  "vat": 27,
+  "users": [
+    "63999f653e13d1f57627f872",
+    "639ae5a1a6f380c3e5a1dd02"
+  ],
+  "currency": "HUF",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671020383545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671121667378"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6399bf5ff2ccef02a138a3f9"
+  },
+  "name": "Fővárosi Önkormányzat Heim Pál Gyermekkórház",
+  "city": "Budapest",
+  "country": "Hungary",
+  "vat": 27,
+  "users": [
+    "63999f653e13d1f57627f872",
+    "639ae5a1a6f380c3e5a1dd02"
+  ],
+  "currency": "HUF",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671020383545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671121660538"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6399bf5ff2ccef02a138a3fe"
+  },
+  "name": "Karolinska University Hospital",
+  "city": "Stockholm ",
+  "country": "Sweden",
+  "vat": 0,
+  "users": [
+    "63999f653e13d1f57627f872"
+  ],
+  "currency": "SEK",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671020383546"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671121545650"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6399bf5ff2ccef02a138a3fc"
+  },
+  "name": "The University Hospital of Ludwig Maximilian University of Munich",
+  "city": "Munich",
+  "country": "Germany",
+  "vat": 0,
+  "users": [],
+  "currency": "EUR",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671020383546"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671130604316"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6399bf5ff2ccef02a138a3fd"
+  },
+  "name": "Rigas Austrumu Kliniskas Universitates",
+  "city": "Riga",
+  "country": "Latvia",
+  "vat": 0,
+  "users": [],
+  "currency": "EUR",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671020383546"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671037054067"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6399bf5ff2ccef02a138a3f7"
+  },
+  "name": "Szent Pantaleon Kórház Kht.",
+  "city": "Dunaújváros",
+  "country": "Hungary",
+  "vat": 27,
+  "users": [],
+  "currency": "HUF",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671020383545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671025994847"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6399bf5ff2ccef02a138a3f5"
+  },
+  "name": "Pécsi Irgalmasrendi Kórház",
+  "city": "Pécs",
+  "country": "Hungary",
+  "vat": 27,
+  "users": [],
+  "currency": "HUF",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671020383545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671034705903"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6399bf5ff2ccef02a138a3f6"
+  },
+  "name": "Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktatókórház",
+  "city": "Miskolc",
+  "country": "Hungary",
+  "vat": 27,
+  "users": [],
+  "currency": "HUF",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671020383545"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671038108555"
+    }
+  },
+  "__v": 0
+}]
